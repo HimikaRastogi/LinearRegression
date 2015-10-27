@@ -1,10 +1,11 @@
 base
 caret
-devtools
+devtools 
 ggplot2
 kernlab
 lattice
 randomForest
 slidify
-testthat
-fastknn
+testthat 
+fastknn #kmeans/clustering
+tm #text mining
