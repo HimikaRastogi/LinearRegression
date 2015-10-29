@@ -9,3 +9,5 @@ summary(model)
 
 plot(weight, height)
 abline(model)
+
+
