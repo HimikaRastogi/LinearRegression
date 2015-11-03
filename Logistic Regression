@@ -20,3 +20,5 @@ predictions[which(predictions=="3")] <- levels(iris$Species)[3]
 
 # summarize accuracy
 table(predictions, iris$Species)
+
+
